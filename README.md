@@ -11,17 +11,36 @@
 <table width="95%" border="1" cellpadding="5"
        cellspacing="0" align="center">
               
-
   <tr>
-    <td>
-    Homeworks 60%
-    Midterm 20%
-    Final 20%
-    </td>
+    <th width="5%" id="header">Lecture</td>
+    <th width="10%" id="header">Date</td>
+    <th width="40%" id="header">Topic</td>
+    <th width="20%" id="header">Lecture notes</td>
+    <th width="35%" id="header">Reference (book sections)</td>
   </tr>
 
   <tr>
-    <td>Midterm: Thursday April 6 in class.</td>
+    <td><p>1</p></td>
+    <td><p>January 26</p></td>
+    <td><p>Introduction</p></td>
+    <td><a href="CS1420_Lecture_1.pdf">notes</a></td>
+    <td><p></p></td>
+  </tr>
+
+  <tr>
+    <td><p>2</p></td>
+    <td><p>January 31</p></td>
+    <td><p>Linear regression, basis functions, least squares</p></td>
+    <td><a href="CS1420_Lecture_2.pdf">notes</a></td>
+    <td><p>1.1, 3.1</p></td>
+  </tr>
+
+  <tr>
+    <td><p>3</p></td>
+    <td><p>February 2</p></td>
+    <td><p>Special DSI lecture, Chris Danforth (UVM)</p></td>
+    <td></td>
+    <td></td>
   </tr>
 
     <tr>
@@ -93,4 +112,3 @@
 
 </body>
 </html>
-
