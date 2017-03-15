@@ -12,19 +12,14 @@
        cellspacing="0" align="center">
               
   <tr>
-    <th width="5%" id="header">Lecture</td>
-    <th width="10%" id="header">Date</td>
-    <th width="40%" id="header">Topic</td>
-    <th width="20%" id="header">Lecture notes</td>
-    <th width="35%" id="header">Reference (book sections)</td>
+Homeworks 60%
+Midterm 20%
+Final 20%
+IMPORTANT DATES:
   </tr>
 
   <tr>
-    <td><p>1</p></td>
-    <td><p>January 26</p></td>
-    <td><p>Introduction</p></td>
-    <td><a href="CS1420_Lecture_1.pdf">notes</a></td>
-    <td><p></p></td>
+Midterm: Thursday April 6 in class.
   </tr>
 
   <tr>
