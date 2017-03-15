@@ -1,5 +1,9 @@
 [Machine Learning (CSCI 1420/ENGN 2520)](http://cs.brown.edu/~pff/engn2520/calendar.html)
 ---
+Homeworks 60%
+Midterm 20%  (Thursday April 6 in class)
+Final 20%
+---
 
 <a href = "index.html">Home</a> &nbsp;
 <a href = "hw.html">Assignments</a> &nbsp;
@@ -40,7 +44,7 @@
     <td><p>3</p></td>
     <td><p>February 2</p></td>
     <td><p>Special DSI lecture, Chris Danforth (UVM)</p></td>
-    <td></td>
+    <td><a href="CS1420_Lecture_10.pdf"></a></td>
     <td></td>
   </tr>
 
@@ -104,7 +108,7 @@
     <td><p>11</p></td>
     <td><p>March 9</p></td>
     <td><p>Gradient descent for linear SVM, Multiclass problems</p></td>
-    <td></td>
+    <td><a href="CS1420_Lecture_10.pdf"></a></td>
     <td><p>7.1</p></td>
   </tr>
 
