@@ -1,8 +1,3 @@
-<head>
-<title>Machine Learning</title>
-</head>
-<body>
-
 <h1>Machine Learning (CSCI 1420/ENGN 2520)</h1>
 
 <a href = "index.html">Home</a> &nbsp;
