@@ -1,4 +1,5 @@
-<h1>[Machine Learning (CSCI 1420/ENGN 2520)](http://cs.brown.edu/~pff/engn2520/calendar.html)</h1>
+[Machine Learning (CSCI 1420/ENGN 2520)](http://cs.brown.edu/~pff/engn2520/calendar.html)
+---
 
 <a href = "index.html">Home</a> &nbsp;
 <a href = "hw.html">Assignments</a> &nbsp;
